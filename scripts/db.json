@@ -1,0 +1,436 @@
+{
+  "albuns": [
+    {
+      "id": 1,
+      "title": "Arena do Grêmio",
+      "description": "Estádio em Porto Alegre-RS, pertencente ao Grêmio de Foot-ball Porto Alegrense. Foi inaugurado em 2013, substituindo o Estádio Olímpico Monumental.",
+      "location": {
+          "latitude": -29.973821538,
+          "longitude": -51.196117401
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://www.tudogeo.com.br/wp-content/uploads/2021/08/arena-gremio-segregacao-socioespacial.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Arena MRV",
+      "description": "Estádio em Belo Horizonte - MG, inaugurado em 2023 pelo Clube Atlético Mineiro, dono do estádio, que passou a realizar suas partidas no local.",
+      "location": {
+          "latitude": -19.92980,
+          "longitude": -44.01349
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://s2.glbimg.com/jzJKh2nT5hkKiONKQXZbFZGUKo8=/620x413/smart/e.glbimg.com/og/ed/f/original/2022/03/08/gigante-de-aco_2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Mineirão",
+      "description": "Estádio público localizado em Belo Horizonte - MG, onde acontecem principalmente partidas de futebol dos clubes da cidade e eventos artísticos.",
+      "location": {
+          "latitude": -19.865877053248774,
+          "longitude": -43.97113149991973
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://qcanavia.files.wordpress.com/2021/04/mineirao.jpg?w=1024"
+    },
+    {
+      "id": 4,
+      "title": "Estádio do Morumbi",
+      "description": "O Estádio do Morumbi é o maior estádio privado do Brasil. Pertence ao São Paulo Futebol Clube, que realiza suas partidas no local desde a sua inauguração, em 1960.",
+      "location": {
+          "latitude": -23.60074837134584,
+          "longitude": -46.72006226184433
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://esportividade.com.br/wp-content/uploads/2013/04/morumbi-500x333.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Maracanã",
+      "description": "O Maracanã, localizado no bairro de mesmo nome, é o mais famoso estádio brasileiro, sendo casa para a seleção brasileira e para os clubes do Rio de Janeiro.",
+      "location": {
+          "latitude": -22.911835645666162,
+          "longitude": -43.22958005874818
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://aventurasnahistoria.uol.com.br/media/_versions/brasil/maracananand_widelg.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Arena Castelão",
+      "description": "O Castelão é um estádio público localizado em Fortaleza-CE, e é utilizado pelos clubes da cidade para partidas de futebol. É o maior estádio do Nordeste do Brasil com capacidade para 63.904 espectadores.",
+      "location": {
+          "latitude": -3.806880572802071,
+          "longitude": -38.521789196784546
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3219631:1650391102/Arena-Castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=37d965a"
+    },
+    {
+      "id": 7,
+      "title": "Arena da Amazônia",
+      "description": "A Arena da Amazônia é um estádio público multiuso localizado em Manaus - AM.",
+      "location": {
+          "latitude": -3.0830314266123615,
+          "longitude": -60.02790316504734
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://www.andradegutierrez.com.br/images/web/thumb-arena-amazonia-1.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Mané Garrincha",
+      "description": "Estádio público em Brasília - DF. Faz parte do Complexo Poliesportivo Ayrton Senna, que engloba outras instalações destinadas a esportes.",
+      "location": {
+          "latitude": -15.78336381196919,
+          "longitude": -47.89967375743133
+      },
+      "date": "2023-09-30",
+      "coverImageUrl": "https://images.adsttc.com/media/images/5746/b78c/e58e/cebb/9600/01e9/newsletter/001_%C2%A9_Bento_Viana_BV_2238.jpg?1464252277"
+    }
+  ],
+  "destaques": [
+    {
+      "id": 1,
+      "albumId": 1,
+      "highlightText": "As fotos do estádio do Grêmio, em Porto Alegre-RS",
+      "coverImageUrl": "https://www.tudogeo.com.br/wp-content/uploads/2021/08/arena-gremio-segregacao-socioespacial.jpg"
+    },
+    {
+      "id": 2,
+      "albumId": 2,
+      "highlightText": "O recém-inaugurado estádio do Clube Atlético Mineiro",
+      "coverImageUrl": "https://s2.glbimg.com/jzJKh2nT5hkKiONKQXZbFZGUKo8=/620x413/smart/e.glbimg.com/og/ed/f/original/2022/03/08/gigante-de-aco_2.jpg"
+    },
+    {
+      "id": 3,
+      "albumId": 3,
+      "highlightText": "Imagens do Mineirão, conhecido como \"O Gigante da Pampulha\"",
+      "coverImageUrl": "https://qcanavia.files.wordpress.com/2021/04/mineirao.jpg?w=1024"
+    },
+    {
+      "id": 4,
+      "albumId": 4,
+      "highlightText": "O estádio do São Paulo Futebol Clube",
+      "coverImageUrl": "https://esportividade.com.br/wp-content/uploads/2013/04/morumbi-500x333.jpg"
+    },
+    {
+      "id": 5,
+      "albumId": 5,
+      "highlightText": "Maracanã, o maior estádio do Brasil",
+      "coverImageUrl": "https://aventurasnahistoria.uol.com.br/media/_versions/brasil/maracananand_widelg.jpg"
+    },
+    {
+      "id": 6,
+      "albumId": 6,
+      "highlightText": "O estádio Castelão, a casa do futebol no Ceará",
+      "coverImageUrl": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3219631:1650391102/Arena-Castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=37d965a"
+    },
+    {
+      "id": 7,
+      "albumId": 7,
+      "highlightText": "A moderna Arena da Amazônia",
+      "coverImageUrl": "https://www.andradegutierrez.com.br/images/web/thumb-arena-amazonia-1.jpg"
+    },
+    {
+      "id": 8,
+      "albumId": 8,
+      "highlightText": "O palco do futebol na capital brasileira",
+      "coverImageUrl": "https://images.adsttc.com/media/images/5746/b78c/e58e/cebb/9600/01e9/newsletter/001_%C2%A9_Bento_Viana_BV_2238.jpg?1464252277"
+    }
+  ],
+  "fotos": [
+      {
+        "id": 1,
+        "imageUrl": "https://live.staticflickr.com/5076/14328433254_78f0c763b6_b.jpg",
+        "description": "Interior da arena, com tecnologias sendo utilizadas para manter o gramado",
+        "albumId": 1
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://www.rbsdirect.com.br/imagesrc/24922712.jpg?version=1575255600",
+        "description": "Visão da arquibancada",
+        "albumId": 1
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://www.tudogeo.com.br/wp-content/uploads/2021/08/arena-gremio-segregacao-socioespacial.jpg",
+        "description": "Entrada do estádio",
+        "albumId": 1
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://prefeitura.poa.br/sites/default/files/styles/horizontal_grande/http/bancodeimagens.portoalegre.rs.gov.br/sites/default/files/2021/04/09/25505603508_38c0138e15_o.jpg?itok=B1zLEjol",
+        "description": "Vista aérea do estádio",
+        "albumId": 1
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://www.egtengenharia.com.br/wp-content/uploads/2017/08/arenagremio2.jpg",
+        "description": "A arena e seus arredores em Porto Alegre",
+        "albumId": 1
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://live.staticflickr.com/779/21913988313_a6d47d15ba_b.jpg",
+        "description": "Visão do estacionamento do estádio",
+        "albumId": 1
+      },
+      {
+        "id": 7,
+        "imageUrl": "https://live.staticflickr.com/65535/53138040283_445cd70d79_b.jpg",
+        "description": "A arena e seus arredores em Belo Horizonte",
+        "albumId": 2
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://live.staticflickr.com/65535/52819059654_677376c689_b.jpg",
+        "description": "Arquibancada do estádio",
+        "albumId": 2
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://s2.glbimg.com/jzJKh2nT5hkKiONKQXZbFZGUKo8=/620x413/smart/e.glbimg.com/og/ed/f/original/2022/03/08/gigante-de-aco_2.jpg",
+        "description": "Visão aérea da arena",
+        "albumId": 2
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://live.staticflickr.com/65535/53137765839_9893480a14_b.jpg",
+        "description": "Visão das cadeiras superiores",
+        "albumId": 2
+      },
+      {
+        "id": 11,
+        "imageUrl": "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2023/08/30/1592360583-531476327593c9875989ao-2048x1365.jpg",
+        "description": "O estádio em dia de jogo",
+        "albumId": 2
+      },
+      {
+        "id": 12,
+        "imageUrl": "https://www.galodigital.com.br/w/images/thumb/a/af/ARENAMRV2023.jpeg/1200px-ARENAMRV2023.jpeg",
+        "description": "Imagem externa do estádio",
+        "albumId": 2
+      },
+      {
+        "id": 13,
+        "imageUrl": "https://live.staticflickr.com/8360/8292588458_6f1fecb1d3_b.jpg",
+        "description": "Visão da arquibancada do estádio",
+        "albumId": 3
+      },
+      {
+        "id": 14,
+        "imageUrl": "https://live.staticflickr.com/8354/8294188765_3909a9ae3b_b.jpg",
+        "description": "Os arredores do Mineirão",
+        "albumId": 3
+      },
+      {
+        "id": 15,
+        "imageUrl": "https://qcanavia.files.wordpress.com/2021/04/mineirao.jpg?w=1024",
+        "description": "Exterior do estádio",
+        "albumId": 3
+      },
+      {
+        "id": 16,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mineirao_stadium.jpg",
+        "description": "Visão da arquibancada superior do estádio",
+        "albumId": 3
+      },
+      {
+        "id": 17,
+        "imageUrl": "https://s2-g1.glbimg.com/8J1jVU5B9cvHaYIRAggyWfphy-8=/0x0:1920x1080/1000x0/smart/filters:strip_icc()/s.glbimg.com/jo/g1/f/original/2017/09/20/mineirao.jpg",
+        "description": "Mineirão durante a noite",
+        "albumId": 3
+      },
+      {
+        "id": 18,
+        "imageUrl": "https://portalbelohorizonte.com.br/sites/default/files/arquivos/ao-ar-livre-e-esportes/2021-07/mineirao-8.jpg",
+        "description": "Esplanada do estádio",
+        "albumId": 3
+      },
+      {
+        "id": 19,
+        "imageUrl": "https://sougremio.com.br/wp-content/uploads/2023/10/image-6-220-800x445.jpg.webp",
+        "description": "O estádio visto de cima",
+        "albumId": 4
+      },
+      {
+        "id": 20,
+        "imageUrl": "https://live.staticflickr.com/2926/14046718782_dc0000b568_b.jpg",
+        "description": "Arredores do estádio",
+        "albumId": 4
+      },
+      {
+        "id": 21,
+        "imageUrl": "https://esportividade.com.br/wp-content/uploads/2013/04/morumbi-500x333.jpg",
+        "description": "Arquibancada do Morumbi",
+        "albumId": 4
+      },
+      {
+        "id": 22,
+        "imageUrl": "https://live.staticflickr.com/3388/4561694604_569a85ff49_b.jpg",
+        "description": "Visão externa do estádio",
+        "albumId": 4
+      },
+      {
+        "id": 23,
+        "imageUrl": "https://s2.glbimg.com/xHa8zIS-vI0NVLXvO9kmZvWSXlQ=/0x222:3543x2073/690x360/s.glbimg.com/es/ge/f/original/2016/04/05/wpp20160405002.jpg",
+        "description": "Visão da arquibancada de cima",
+        "albumId": 4
+      },
+      {
+        "id": 24,
+        "imageUrl": "https://dragoesdareal.com.br/wp-content/uploads/2022/03/Morumbi-Torcida-220309a.jpg",
+        "description": "O estádio em dia de jogo",
+        "albumId": 4
+      },
+      {
+        "id": 25,
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSn5F3X9xGjW5PMx4muEIUCSQueYGAE32zSMMHCpLdr2u7ZnS2A",
+        "description": "Visão da arquibancada",
+        "albumId": 5
+      },
+      {
+        "id": 26,
+        "imageUrl": "https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2021/08/39940_46AE4F9E9F1F43B0-4.jpg?w=1220&h=674&crop=1",
+        "description": "Arquibancada do estádio",
+        "albumId": 5
+      },
+      {
+        "id": 27,
+        "imageUrl": "https://aventurasnahistoria.uol.com.br/media/_versions/brasil/maracananand_widelg.jpg",
+        "description": "Visão aérea do Maracanã e do Maracanãzinho",
+        "albumId": 5
+      },
+      {
+        "id": 28,
+        "imageUrl": "https://s2-ge.glbimg.com/K0bPDvosfc-gXDimeiY83YDjTW4=/0x0:1280x960/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/M/5/G0N0SGTUit9nl6XMYCmw/whatsapp-image-2021-07-07-at-14.26.24.jpeg",
+        "description": "Telões do estádio mostrando a bandeira do Brasil",
+        "albumId": 5
+      },
+      {
+        "id": 29,
+        "imageUrl": "https://i0.wp.com/jornalismoesporteclube.com.br/wp-content/uploads/2020/10/IMG_20190707_165419.jpg?resize=1170%2C658&ssl=1",
+        "description": "Jogo da Seleção Brasileira no estádio",
+        "albumId": 5
+      },
+      {
+        "id": 30,
+        "imageUrl": "https://s.glbimg.com/es/ge/f/original/2013/05/24/iluminacao_cobertura_cadeiras_maracana_ericaramalho.jpg",
+        "description": "O estádio de noite",
+        "albumId": 5
+      },
+      {
+        "id": 31,
+        "imageUrl": "https://live.staticflickr.com/3778/12305479514_84fee12c7b_b.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=37d965a",
+        "description": "Arquibancada do estádio",
+        "albumId": 6
+      },
+      {
+        "id": 32,
+        "imageUrl": "https://live.staticflickr.com/2811/9091457766_c03017f1d2_b.jpg",
+        "description": "O estádio rececendo um jogo da Seleção Brasileira",
+        "albumId": 6
+      },
+      {
+        "id": 33,
+        "imageUrl": "https://diariodonordeste.verdesmares.com.br/image/contentid/policy:1.3219631:1650391102/Arena-Castel-o.jpg?f=16x9&h=720&q=0.8&w=1280&$p$f$h$q$w=37d965a",
+        "description": "Visão interna do estádio",
+        "albumId": 6
+      },
+      {
+        "id": 34,
+        "imageUrl": "https://logimg.files.wordpress.com/2013/05/castelao-4.jpg",
+        "description": "O estádio na cidade de Fortaleza",
+        "albumId": 6
+      },
+      {
+        "id": 35,
+        "imageUrl": "https://m.galeriadaarquitetura.com.br/Img/projeto/702x415/826/arenacastelao234.jpg",
+        "description": "O lado de fora do estádio",
+        "albumId": 6
+      },
+      {
+        "id": 36,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCh6JIK1oIwq_YCQRAtLaU96iGhX49xQbPoEOzD6gvl5Tqbw2s",
+        "description": "O estádio durante a noite",
+        "albumId": 6
+      },
+      {
+        "id": 37,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTliMDtXVsX7j3jQ1JO1MZKMUFQVKx2F1XBJmOxUM9P1cqLw7oA",
+        "description": "Os arredores do estádio",
+        "albumId": 7
+      },
+      {
+        "id": 38,
+        "imageUrl": "https://live.staticflickr.com/3855/14322646340_6f0ca7d824_b.jpg",
+        "description": "O interior do estádio",
+        "albumId": 7
+      },
+      {
+        "id": 39,
+        "imageUrl": "https://www.andradegutierrez.com.br/images/web/thumb-arena-amazonia-1.jpg",
+        "description": "O estádio durante o dia",
+        "albumId": 7
+      },
+      {
+        "id": 40,
+        "imageUrl": "https://static.poder360.com.br/2021/09/arena-amazonia.jpeg",
+        "description": "Visão da arquibancada superior do estádio",
+        "albumId": 7
+      },
+      {
+        "id": 41,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Arena-da-Amazonia-2014.jpg",
+        "description": "Visão aérea do estádio",
+        "albumId": 7
+      },
+      {
+        "id": 42,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Arena-da-Amazonia.jpg",
+        "description": "O estádio em dia de jogo",
+        "albumId": 7
+      },
+      {
+        "id": 43,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Est%C3%A1dio_Nacional_Bras%C3%ADlia.jpg/1200px-Est%C3%A1dio_Nacional_Bras%C3%ADlia.jpg",
+        "description": "Visão interior do estádio",
+        "albumId": 8
+      },
+      {
+        "id": 44,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Na_v%C3%A9spera_da_estreia%2C_delega%C3%A7%C3%B5es_ol%C3%ADmpicas_de_futebol_visitam_o_Man%C3%A9_Garrincha_%2828132432274%29.jpg/700px-Na_v%C3%A9spera_da_estreia%2C_delega%C3%A7%C3%B5es_ol%C3%ADmpicas_de_futebol_visitam_o_Man%C3%A9_Garrincha_%2828132432274%29.jpg",
+        "description": "Visão da arquibancada superior do estádio",
+        "albumId": 8
+      },
+      {
+        "id": 45,
+        "imageUrl": "https://images.adsttc.com/media/images/5746/b78c/e58e/cebb/9600/01e9/newsletter/001_%C2%A9_Bento_Viana_BV_2238.jpg?1464252277",
+        "description": "O estádio e seus arredores",
+        "albumId": 8
+      },
+      {
+        "id": 46,
+        "imageUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ6TAcKIHIJi0Bj6eNRCRDQSmJNwxqjS1BOrcoVFlooXJTboKZA",
+        "description": "Visão superior do estádio",
+        "albumId": 8
+      },
+      {
+        "id": 47,
+        "imageUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQexCrcNyxoZVr8tRcRCvjmOTLTDIoWdCcn0U1aM51evAsyrA2e",
+        "description": "O lado de fora do estádio",
+        "albumId": 8
+      },
+      {
+        "id": 48,
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Est%C3%A1dio_de_Bras%C3%ADlia_Man%C3%A9_Garrincha.jpg",
+        "description": "Parte externa do estádio",
+        "albumId": 8
+      }
+
+
+    ]
+}
+
+

@@ -1,0 +1,6 @@
+#mapa {
+    width: 100%; /* Ocupa 100% da largura da tela */
+    height: 400px; /* Ajuste a altura conforme necessário */
+    margin: 0 auto; /* Centraliza horizontalmente */
+}
+

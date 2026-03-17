@@ -2,8 +2,7 @@
 const server = jsonServer.create()
 const router = jsonServer.router('db.json')
 
-// Para permitir que os dados sejam alterados, altere a linha abaixo
-// colocando o atributo readOnly como false.
+
 const middlewares = jsonServer.defaults({readOnly: false})
 
 server.use(middlewares)
@@ -12,10 +11,9 @@ server.listen(3000, () => {
   console.log('JSON Server is running')
 })
 
-// Use a classe da sua estrutura atual
-// ...
 
-// Adicione aqui o conteúdo do card, semelhante à lógica anterior
+
+
 const albumListContainer = document.getElementById('album-list');
 
 // Fazer uma requisição para obter os álbuns do servidor
